@@ -2,8 +2,8 @@
 title: ""
 pagetitle: "Sara Kingsley"
 description-meta: "Sara C. Kingsley is a teaching faculty and researcher at Carnegie Mellon University, researching AI Security & Safety, and teaching applied Generative AI methods and engineering and data science."
-main-photo: /docs/sara-hai-lecture.jpg
-main-photo-square: /docs/sara-hai-lecture.jpg
+main-photo: /docs/_site/files/profiles/sara-hai-lecture.jpg
+main-photo-square: /docs/_site/files/profiles/sara-hai-lecture.jpg
 title-block-banner: "#c176d0ff"
 format:
   html:
