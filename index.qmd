@@ -2,8 +2,8 @@
 title: ""
 pagetitle: "Sara Kingsley"
 description-meta: "Sara C. Kingsley is a teaching faculty and researcher at Carnegie Mellon University, researching AI Security & Safety, and teaching applied Generative AI methods and engineering and data science."
-main-photo: /docs/_site/files/profiles/sara-hai-lecture.jpg
-main-photo-square: /docs/_site/files/profiles/sara-hai-lecture.jpg
+#main-photo: /docs/_site/files/profiles/sara-hai-lecture.jpg
+#main-photo-square: /docs/_site/files/profiles/sara-hai-lecture.jpg
 title-block-banner: "#c176d0ff"
 format:
   html:
@@ -19,11 +19,11 @@ format:
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
   <div class="g-col-1 g-col-sm-0"></div>
   <div class="g-col-3 g-col-sm-5">
-    <picture>
-      <source media="(max-width: 576px)" srcset="{{< meta main-photo-square >}}">
+    <!--<picture>
+     <source media="(max-width: 576px)" srcset="{{< meta main-photo-square >}}">
       <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
       <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
-    </picture>
+    </picture> -->
   </div>
   <div class="g-col-1 g-col-sm-0"></div>
 </div>
